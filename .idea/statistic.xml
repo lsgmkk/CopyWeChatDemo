@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="excludedDirectories">
+      <list>
+        <option value="$USER_HOME$/WorkForXKSKY/XKSKY/app/src/main/java/com/xksky" />
+      </list>
+    </option>
+  </component>
+</project>
